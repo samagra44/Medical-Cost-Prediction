@@ -32,3 +32,6 @@ Users simply input their relevant details into the web app, and the model, runni
 3. **Accessing the Web App**: Open your browser and navigate to `http://localhost:8000` to interact with the web app.
 
 Issues and pull requests are welcomed for any encountered problems or potential improvements. The Medical Cost Prediction Web App stands as a powerful tool, offering predictive insights to navigate the complex landscape of healthcare costs.
+
+# Output
+![Screenshot 2024-01-27 223951](https://github.com/samagra44/Medical-Cost-Prediction/assets/77968722/f34d0d33-b097-4b20-af33-c3e21839f555)
